@@ -1,0 +1,13 @@
+# 카피캣 로드
+copy cat 노드
+머신러닝 기반의 인공지능
+인공지능을 이용해서 매트 추출할 수 있다.
+적은 양의 프레임만으로도 전체 범위의 작업을 완료
+적은 인력으로 더 나은 결과를 만들어낼 수 있다.
+몇 개의 로토를 먼저 딴 뒤 인공지능을 훈련시키고 활용한다.
+copycat에는 인풋이 두개 있다 ground truth / input
+몇 개의 로토를 먼저 딴 후 before after 결과값을 copycat 노드에 연결
+# nuke의 다양한 기능
+gatimedia / expresstion
+tvi / upscale - 크기를 늘려준다
+deblur - 카메라 블러 줄여주는 블러
